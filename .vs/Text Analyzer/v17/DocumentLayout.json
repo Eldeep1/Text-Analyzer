@@ -1,26 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "O:\\studies\\faculty\\fourth year\\semester 1\\pl3\\Project\\Text Analyzer\\",
+  "WorkspaceRootPath": "C:\\Users\\hp\\Documents\\myGitHub\\Text-Analyzer\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FE6DC3A1-1B6E-47D6-B9B2-9FA24E8BAD1C}|Text Analyzer\\Text Analyzer.fsproj|o:\\studies\\faculty\\fourth year\\semester 1\\pl3\\project\\text analyzer\\text analyzer\\view\\home.fs||{8A5AA6CF-46E3-4520-A70A-7393D15233E9}",
-      "RelativeMoniker": "D:0:0:{FE6DC3A1-1B6E-47D6-B9B2-9FA24E8BAD1C}|Text Analyzer\\Text Analyzer.fsproj|solutionrelative:text analyzer\\view\\home.fs||{8A5AA6CF-46E3-4520-A70A-7393D15233E9}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FE6DC3A1-1B6E-47D6-B9B2-9FA24E8BAD1C}|Text Analyzer\\Text Analyzer.fsproj|o:\\studies\\faculty\\fourth year\\semester 1\\pl3\\project\\text analyzer\\text analyzer\\services\\filehandler.fs||{8A5AA6CF-46E3-4520-A70A-7393D15233E9}",
-      "RelativeMoniker": "D:0:0:{FE6DC3A1-1B6E-47D6-B9B2-9FA24E8BAD1C}|Text Analyzer\\Text Analyzer.fsproj|solutionrelative:text analyzer\\services\\filehandler.fs||{8A5AA6CF-46E3-4520-A70A-7393D15233E9}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FE6DC3A1-1B6E-47D6-B9B2-9FA24E8BAD1C}|Text Analyzer\\Text Analyzer.fsproj|o:\\studies\\faculty\\fourth year\\semester 1\\pl3\\project\\text analyzer\\text analyzer\\services\\textanalysis.fs||{8A5AA6CF-46E3-4520-A70A-7393D15233E9}",
+      "AbsoluteMoniker": "D:0:0:{FE6DC3A1-1B6E-47D6-B9B2-9FA24E8BAD1C}|Text Analyzer\\Text Analyzer.fsproj|c:\\users\\hp\\documents\\mygithub\\text-analyzer\\text analyzer\\services\\textanalysis.fs||{8A5AA6CF-46E3-4520-A70A-7393D15233E9}",
       "RelativeMoniker": "D:0:0:{FE6DC3A1-1B6E-47D6-B9B2-9FA24E8BAD1C}|Text Analyzer\\Text Analyzer.fsproj|solutionrelative:text analyzer\\services\\textanalysis.fs||{8A5AA6CF-46E3-4520-A70A-7393D15233E9}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FE6DC3A1-1B6E-47D6-B9B2-9FA24E8BAD1C}|Text Analyzer\\Text Analyzer.fsproj|o:\\studies\\faculty\\fourth year\\semester 1\\pl3\\project\\text analyzer\\text analyzer\\program.fs||{8A5AA6CF-46E3-4520-A70A-7393D15233E9}",
+      "AbsoluteMoniker": "D:0:0:{FE6DC3A1-1B6E-47D6-B9B2-9FA24E8BAD1C}|Text Analyzer\\Text Analyzer.fsproj|c:\\users\\hp\\documents\\mygithub\\text-analyzer\\text analyzer\\view\\home.fs||{8A5AA6CF-46E3-4520-A70A-7393D15233E9}",
+      "RelativeMoniker": "D:0:0:{FE6DC3A1-1B6E-47D6-B9B2-9FA24E8BAD1C}|Text Analyzer\\Text Analyzer.fsproj|solutionrelative:text analyzer\\view\\home.fs||{8A5AA6CF-46E3-4520-A70A-7393D15233E9}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE6DC3A1-1B6E-47D6-B9B2-9FA24E8BAD1C}|Text Analyzer\\Text Analyzer.fsproj|c:\\users\\hp\\documents\\mygithub\\text-analyzer\\text analyzer\\text analyzer.fsproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FE6DC3A1-1B6E-47D6-B9B2-9FA24E8BAD1C}|Text Analyzer\\Text Analyzer.fsproj|solutionrelative:text analyzer\\text analyzer.fsproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE6DC3A1-1B6E-47D6-B9B2-9FA24E8BAD1C}|Text Analyzer\\Text Analyzer.fsproj|c:\\users\\hp\\documents\\mygithub\\text-analyzer\\text analyzer\\program.fs||{8A5AA6CF-46E3-4520-A70A-7393D15233E9}",
       "RelativeMoniker": "D:0:0:{FE6DC3A1-1B6E-47D6-B9B2-9FA24E8BAD1C}|Text Analyzer\\Text Analyzer.fsproj|solutionrelative:text analyzer\\program.fs||{8A5AA6CF-46E3-4520-A70A-7393D15233E9}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FE6DC3A1-1B6E-47D6-B9B2-9FA24E8BAD1C}|Text Analyzer\\Text Analyzer.fsproj|o:\\studies\\faculty\\fourth year\\semester 1\\pl3\\project\\text analyzer\\text analyzer\\text analyzer.fsproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{FE6DC3A1-1B6E-47D6-B9B2-9FA24E8BAD1C}|Text Analyzer\\Text Analyzer.fsproj|solutionrelative:text analyzer\\text analyzer.fsproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{FE6DC3A1-1B6E-47D6-B9B2-9FA24E8BAD1C}|Text Analyzer\\Text Analyzer.fsproj|c:\\users\\hp\\documents\\mygithub\\text-analyzer\\text analyzer\\services\\filehandler.fs||{8A5AA6CF-46E3-4520-A70A-7393D15233E9}",
+      "RelativeMoniker": "D:0:0:{FE6DC3A1-1B6E-47D6-B9B2-9FA24E8BAD1C}|Text Analyzer\\Text Analyzer.fsproj|solutionrelative:text analyzer\\services\\filehandler.fs||{8A5AA6CF-46E3-4520-A70A-7393D15233E9}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,56 +30,63 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "FileHandler.fs",
-              "DocumentMoniker": "O:\\studies\\faculty\\fourth year\\semester 1\\pl3\\Project\\Text Analyzer\\Text Analyzer\\Services\\FileHandler.fs",
-              "RelativeDocumentMoniker": "Text Analyzer\\Services\\FileHandler.fs",
-              "ToolTip": "O:\\studies\\faculty\\fourth year\\semester 1\\pl3\\Project\\Text Analyzer\\Text Analyzer\\Services\\FileHandler.fs",
-              "RelativeToolTip": "Text Analyzer\\Services\\FileHandler.fs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA5AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-12-06T20:08:56.266Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
+              "Title": "FileHandler.fs",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\myGitHub\\Text-Analyzer\\Text Analyzer\\Services\\FileHandler.fs",
+              "RelativeDocumentMoniker": "Text Analyzer\\Services\\FileHandler.fs",
+              "ToolTip": "C:\\Users\\hp\\Documents\\myGitHub\\Text-Analyzer\\Text Analyzer\\Services\\FileHandler.fs",
+              "RelativeToolTip": "Text Analyzer\\Services\\FileHandler.fs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-12-06T20:08:56.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "TextAnalysis.fs",
-              "DocumentMoniker": "O:\\studies\\faculty\\fourth year\\semester 1\\pl3\\Project\\Text Analyzer\\Text Analyzer\\Services\\TextAnalysis.fs",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\myGitHub\\Text-Analyzer\\Text Analyzer\\Services\\TextAnalysis.fs",
               "RelativeDocumentMoniker": "Text Analyzer\\Services\\TextAnalysis.fs",
-              "ToolTip": "O:\\studies\\faculty\\fourth year\\semester 1\\pl3\\Project\\Text Analyzer\\Text Analyzer\\Services\\TextAnalysis.fs",
+              "ToolTip": "C:\\Users\\hp\\Documents\\myGitHub\\Text-Analyzer\\Text Analyzer\\Services\\TextAnalysis.fs",
               "RelativeToolTip": "Text Analyzer\\Services\\TextAnalysis.fs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAPAAAAAAAAAA==",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACsAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2024-12-06T20:08:29.418Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Home.fs",
-              "DocumentMoniker": "O:\\studies\\faculty\\fourth year\\semester 1\\pl3\\Project\\Text Analyzer\\Text Analyzer\\View\\Home.fs",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\myGitHub\\Text-Analyzer\\Text Analyzer\\View\\Home.fs",
               "RelativeDocumentMoniker": "Text Analyzer\\View\\Home.fs",
-              "ToolTip": "O:\\studies\\faculty\\fourth year\\semester 1\\pl3\\Project\\Text Analyzer\\Text Analyzer\\View\\Home.fs",
+              "ToolTip": "C:\\Users\\hp\\Documents\\myGitHub\\Text-Analyzer\\Text Analyzer\\View\\Home.fs",
               "RelativeToolTip": "Text Analyzer\\View\\Home.fs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAuAAAAAAAAAA==",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2024-12-06T20:05:44.298Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "Text Analyzer.fsproj",
-              "DocumentMoniker": "O:\\studies\\faculty\\fourth year\\semester 1\\pl3\\Project\\Text Analyzer\\Text Analyzer\\Text Analyzer.fsproj",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\myGitHub\\Text-Analyzer\\Text Analyzer\\Text Analyzer.fsproj",
               "RelativeDocumentMoniker": "Text Analyzer\\Text Analyzer.fsproj",
-              "ToolTip": "O:\\studies\\faculty\\fourth year\\semester 1\\pl3\\Project\\Text Analyzer\\Text Analyzer\\Text Analyzer.fsproj",
+              "ToolTip": "C:\\Users\\hp\\Documents\\myGitHub\\Text-Analyzer\\Text Analyzer\\Text Analyzer.fsproj",
               "RelativeToolTip": "Text Analyzer\\Text Analyzer.fsproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001351|",
               "WhenOpened": "2024-12-06T18:38:39.226Z",
               "EditorCaption": ""
@@ -88,14 +95,13 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Program.fs",
-              "DocumentMoniker": "O:\\studies\\faculty\\fourth year\\semester 1\\pl3\\Project\\Text Analyzer\\Text Analyzer\\Program.fs",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\myGitHub\\Text-Analyzer\\Text Analyzer\\Program.fs",
               "RelativeDocumentMoniker": "Text Analyzer\\Program.fs",
-              "ToolTip": "O:\\studies\\faculty\\fourth year\\semester 1\\pl3\\Project\\Text Analyzer\\Text Analyzer\\Program.fs",
+              "ToolTip": "C:\\Users\\hp\\Documents\\myGitHub\\Text-Analyzer\\Text Analyzer\\Program.fs",
               "RelativeToolTip": "Text Analyzer\\Program.fs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-12-06T18:29:52.84Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-06T18:29:52.84Z"
             }
           ]
         }
